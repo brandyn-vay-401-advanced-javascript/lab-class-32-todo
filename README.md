@@ -22,7 +22,8 @@
 
 #### Tests
 
-- How do you run tests? Use npm test in the teerminal to run the tests.
+- How do you run tests?
+  - Use npm test in the teerminal to run the tests.
 
 #### UML
 
