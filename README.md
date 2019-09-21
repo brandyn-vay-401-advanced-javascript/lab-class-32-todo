@@ -8,7 +8,7 @@
 
 - [submission PR](https://github.com/brandyn-vay-401-advanced-javascript/lab-class-32)
 - [travis](https://travis-ci.com/brandyn-vay-401-advanced-javascript/lab-class-32)
-- [code sandbox](https://codesandbox.io/s/lab-class-32-6xr9h)
+- [code sandbox](xyz.com)
 
 ### Modules
 
