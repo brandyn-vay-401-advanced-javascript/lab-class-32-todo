@@ -6,9 +6,11 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/brandyn-vay-401-advanced-javascript/lab-class-32)
+- [submission PR practice](https://github.com/brandyn-vay-401-advanced-javascript/lab-class-32-practice)
+- [submission PR todo](https://github.com/brandyn-vay-401-advanced-javascript/lab-class-32-todo)
 - [travis](https://travis-ci.com/brandyn-vay-401-advanced-javascript/lab-class-32)
-- [code sandbox](https://codesandbox.io/s/lab-class-32-todo-fdpvn)
+- [code sandbox todo](https://codesandbox.io/s/lab-class-32-todo-fdpvn)
+- [code sandbox practice](https://codesandbox.io/s/lab-class-32-practice-7tfum)
 
 ### Modules
 
