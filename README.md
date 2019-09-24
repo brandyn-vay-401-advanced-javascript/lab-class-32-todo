@@ -8,7 +8,7 @@
 
 - [submission PR todo](https://github.com/brandyn-vay-401-advanced-javascript/lab-class-32-todo)
 - [travis](https://travis-ci.com/brandyn-vay-401-advanced-javascript/lab-class-32-todo)
-- [depolyment](https://codesandbox.io/s/lab-class-32-todo-fdpvn)
+- [depolyment](https://bv-todo-app.herokuapp.com/)
 
 ### Modules
 
