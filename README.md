@@ -6,11 +6,9 @@
 
 ### Links and Resources
 
-- [submission PR practice](https://github.com/brandyn-vay-401-advanced-javascript/lab-class-32-practice)
 - [submission PR todo](https://github.com/brandyn-vay-401-advanced-javascript/lab-class-32-todo)
-- [travis](https://travis-ci.com/brandyn-vay-401-advanced-javascript/lab-class-32)
-- [code sandbox todo](https://codesandbox.io/s/lab-class-32-todo-fdpvn)
-- [code sandbox practice](https://codesandbox.io/s/lab-class-32-practice-7tfum)
+- [travis](https://travis-ci.com/brandyn-vay-401-advanced-javascript/lab-class-32-todo)
+- [depolyment](https://codesandbox.io/s/lab-class-32-todo-fdpvn)
 
 ### Modules
 
@@ -29,4 +27,4 @@
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![UML](./assets/lab-32-UML.jpg)
