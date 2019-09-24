@@ -12,7 +12,12 @@
 
 ### Modules
 
-#### `modulename.js`
+#### `form.js`
+#### `q.js`
+#### `app.js`
+#### `todo-list.js`
+#### `todo.js`
+#### `shopping.js`
 
 #### Running the app
 
